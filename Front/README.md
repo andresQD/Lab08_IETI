@@ -1,10 +1,9 @@
-Deploy firebase: https://taks-planner-app-6d910.firebaseapp.com/
+
 
 # Credenciales:
-* email:andres@mail.com 
-* password: afqd
+* email:test@mail.com 
+* password: password
 
-Una vez realice el LogIn será redirigido a: https://taskplannerproject.herokuapp.com/tasks
 
 
 
