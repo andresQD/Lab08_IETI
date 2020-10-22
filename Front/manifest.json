@@ -1,0 +1,21 @@
+{
+  "name": "Task Planner App",
+  "icons": [
+    {
+      "src": "images / icons / icon-72x72.png",
+      "tamaños": "72x72",
+      "type": "image / png"
+    },
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "short_name": "task plan",
+  "theme_color": "#017ada",
+  "background_color": "#017ada",
+  "display": "browser",
+  "scope": "/",
+  "start_url": "/"
+}
